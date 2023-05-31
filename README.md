@@ -72,8 +72,10 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 # CLIENT OUTPUT : 
-https://github.com/Shree-Ram-R/19CS406-EX-1/blob/main/C2.png?raw=true
+![image](https://github.com/arun1111j/CN-ex01/assets/128461833/53d0fa2a-5da2-4600-af0a-e16e17d8c5a2)
+
 # SERVER OUTPUT :
-https://github.com/Shree-Ram-R/19CS406-EX-1/blob/main/S2.png?raw=true
+![image](https://github.com/arun1111j/CN-ex01/assets/128461833/27417292-5dc5-49b8-ae83-7930b043953c)
+
 # RESULT:
 ## Thus, python program to perform stop and wait protocol was successfully executed.
